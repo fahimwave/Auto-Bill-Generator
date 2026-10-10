@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Auto Bill</string>
+    <string name="title_app_bar">Auto Bill Generator</string>
+    <string name="subtitle_app_bar">Student-On-Duty (ASC)</string>
+</resources>

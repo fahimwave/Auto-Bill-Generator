@@ -1,0 +1,46 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Main Document Body (Clean White) -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M34,26 C31.8,26 30,27.8 30,30 L30,78 C30,80.2 31.8,82 34,82 L64,82 C64.5,82 65,81.8 65.4,81.4 L77.4,69.4 C77.8,69 78,68.5 78,68 L78,30 C78,27.8 76.2,26 74,26 L34,26 Z" />
+
+        <!-- Document Fold Corner -->
+        <path
+            android:fillColor="#E2E8F0"
+            android:pathData="M64,68 L78,68 L64,82 Z" />
+
+        <!-- Document Lines / Bill Rows -->
+        <path
+            android:fillColor="#0B2545"
+            android:pathData="M37,36 L71,36 C71.6,36 72,36.4 72,37 C72,37.6 71.6,38 71,38 L37,38 C36.4,38 36,37.6 36,37 C36,36.4 36.4,36 37,36 Z" />
+        <path
+            android:fillColor="#0B2545"
+            android:pathData="M37,43 L63,43 C63.6,43 64,43.4 64,44 C64,44.6 63.6,45 63,45 L37,45 C36.4,45 36,44.6 36,44 C36,43.4 36.4,43 37,43 Z" />
+        <path
+            android:fillColor="#0B2545"
+            android:pathData="M37,50 L56,50 C56.6,50 57,50.4 57,51 C57,51.6 56.6,52 56,52 L37,52 C36.4,52 36,51.6 36,51 C36,50.4 36.4,50 37,50 Z" />
+
+        <!-- Vibrant Orange Duty Clock / Timer Badge -->
+        <path
+            android:fillColor="#FF7700"
+            android:pathData="M63,57 C56.4,57 51,62.4 51,69 C51,75.6 56.4,81 63,81 C69.6,81 75,75.6 75,69 C75,62.4 69.6,57 63,57 Z" />
+        <!-- Clock face inner white ring/dial -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.2"
+            android:strokeLineCap="round"
+            android:pathData="M63,62 L63,69 L67,71" />
+        <!-- Center pin -->
+        <path
+            android:fillColor="#0B2545"
+            android:pathData="M63,68 C62.45,68 62,68.45 62,69 C62,69.55 62.45,70 63,70 C63.55,70 64,69.55 64,69 C64,68.45 63.55,68 63,68 Z" />
+    </group>
+</vector>
